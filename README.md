@@ -1,5 +1,5 @@
-# Unit 19 Homework:  Crypto Wallet - Rachel Pierce
-## February 2022
+# Unit 19 Homework:  Crypto Wallet - 
+
 
 ## *Instructions:*
 ### Three main tasks:
